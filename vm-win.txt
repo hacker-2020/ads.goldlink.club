@@ -1,3 +1,0 @@
-pc: vmsql
-user: v10
-pass: V1020192020m
